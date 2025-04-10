@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Asad Saleh Hayat
 
 💻 **Site Reliability Engineer** @ Aion Digital  
-🌍 Based in Islamabad, Pakistan | Working remotely with Bahrain-based teams  
+🌍 Based in Islamabad, Pakistan | Working remotely with Bahrain-based company  
 🎓 MS in Systems Engineering from NUST | B.Sc. in Electrical Engineering from FUUAST
 
 ---

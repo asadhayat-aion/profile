@@ -22,5 +22,5 @@
 ---
 
 ## 📫 Get in Touch
-- Email: asadsalehhayat@gmail.com  
-- LinkedIn: [Your LinkedIn here]  
+- 📧 Email: [asadsalehhayat@gmail.com](mailto:asadsalehhayat@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/asadsalehhayat](https://www.linkedin.com/in/asadsalehhayat)
